@@ -1,0 +1,27 @@
+body{
+    background-color: #f3eecc;
+}
+
+#badge{
+    background-color: #c2d4fc;
+}
+#badge1{
+    background-color: #fcc4c2;
+}
+#badge2{
+    background-color: #fcc2f7;
+}
+#btn-badge{
+    background-color: #f3eecc;
+
+}
+#btn-badge:hover{
+    background-color: #faf6db;
+}
+#btn-badge:active{
+    background-color: #eee9ca;
+}
+
+button{
+    border:0px;
+}

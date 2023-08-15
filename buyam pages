@@ -1,0 +1,139 @@
+homepage
+-------------------------------
+|     Logo     |   User Icon   |
+-------------------------------
+|                               |
+|       Item 1    Item 2        |
+|                               |
+|       Item 3    Item 4        |
+|                               |
+|       Item 5    Item 6        |
+|                               |
+|       Item 7    Item 8        |
+|                               |
+-------------------------------
+|     Sign In   |    Sign Up    |
+-------------------------------
+
+sign in
+-------------------------------
+|            Logo             |
+-------------------------------
+|  Username:     [Input Box]   |
+|  Password:     [Input Box]   |
+|             [Sign In]       |
+|                             |
+|         [Or Sign Up]        |
+-------------------------------
+
+admin
+-------------------------------
+|      Admin Dashboard        |
+-------------------------------
+|  Add New Item               |
+|  Edit Item    [Item 1]      |
+|  Edit Item    [Item 2]      |
+|  Edit Item    [Item 3]      |
+|  Edit Item    [Item 4]      |
+|                             |
+|  Users                      |
+|  Edit User    [User 1]      |
+|  Edit User    [User 2]      |
+|  Edit User    [User 3]      |
+|  Edit User    [User 4]      |
+|                             |
+|  Item Summary               |
+|  Item 1: 50 Left            |
+|  Item 2: 25 Left            |
+|  Item 3: 10 Left            |
+|  Item 4: 30 Left            |
+|                             |
+|  Purchases & Profits        |
+|  Total Purchases: $1000     |
+|  Total Profits: $500        |
+|                             |
+-------------------------------
+
+customer
+-------------------------------
+|       Customer Dashboard    |
+-------------------------------
+|  Cart                       |
+|  [Item 1]    Price: $50     |
+|  [Item 2]    Price: $30     |
+|  [Item 3]    Price: $40     |
+|                             |
+|  Available Items            |
+|  [Item 1]    Price: $50     |
+|  [Item 2]    Price: $30     |
+|  [Item 3]    Price: $40     |
+|  [Item 4]    Price: $25     |
+|  [Item 5]    Price: $20     |
+|                             |
+-------------------------------
+
+Admin Dashboard Outline:
+-----------------------
+
+1. Overview and Statistics
+   - Total Sales
+   - Revenue
+   - Profits
+   - Registered Customers
+   - New Customer Registrations
+   - Current Stock Status
+
+2. Manage Products
+   - Add New Product
+   - Edit Product Details
+   - Delete Products
+   - View Product Analytics (e.g., Popular Products, Bestsellers)
+
+3. Manage Categories and Brands
+   - Add New Categories and Brands
+   - Edit Categories and Brands
+   - Delete Categories and Brands
+   - Assign Products to Categories and Brands
+
+4. Orders and Sales Management
+   - View All Customer Orders
+   - Order Status (e.g., Pending, Completed, Cancelled)
+   - Process Orders (e.g., Mark as Shipped)
+   - Monitor Order Fulfillment and Delivery Status
+   - Generate Invoices and Packing Slips
+
+5. Customer Management
+   - View List of Registered Customers
+   - Search Customers and View Details
+   - Edit Customer Information
+   - Handle Customer Inquiries and Support Requests
+
+6. Stock and Inventory Management
+   - Track Stock Levels for Each Product
+   - Low-Stock Alerts
+   - Manage Stock Replenishment and Purchase Orders
+
+7. Sales and Revenue Analytics
+   - Sales Reports and Revenue Trends
+   - Analyze Sales Performance by Category, Brand, Region
+   - Identify Popular Products and Customer Preferences
+
+8. User Account Management
+   - Add New Administrators or Staff Members (if applicable)
+   - Manage Permissions and Roles for Different Users
+
+9. Site Configuration
+   - Store Settings (e.g., Store Name, Logo, Contact Information)
+   - Shipping Options and Pricing
+   - Tax Rules and Rates
+
+10. Marketing and Promotions
+    - Create and Manage Discount Codes and Promotional Offers
+    - Monitor Performance of Marketing Campaigns
+
+11. Notifications and Alerts
+    - Real-Time Notifications for New Orders, Low Stock, etc.
+
+12. Security and Backup
+    - Implement Security Measures to Protect Sensitive Data
+    - Regularly Back Up Database and Critical Files
